@@ -21,11 +21,11 @@
     $scope.items.categoriaA.push({ref:'REF00006', desc:'Iphone8,', img:foto1});
         
     $scope.items.categoriaB = [];
-    $scope.items.categoriaB.push({ref:'REF10001', desc:'Cosa 1, cosa rara', img:foto2});
-    $scope.items.categoriaB.push({ref:'REF10002', desc:'Cosa 2, cosa rara', img:foto2});
-    $scope.items.categoriaB.push({ref:'REF10003', desc:'Cosa 3, cosa rara', img:foto2});
-    $scope.items.categoriaB.push({ref:'REF10004', desc:'Cosa 4, cosa rara', img:foto2});
-    $scope.items.categoriaB.push({ref:'REF10005', desc:'Cosa 5, cosa rara', img:foto2});
+    $scope.items.categoriaB.push({ref:'REF10001', desc:'Celulares cantidad disponible', img:foto2});
+    $scope.items.categoriaB.push({ref:'REF10002', desc:'Celulares cantidad disponible' img:foto2});
+    $scope.items.categoriaB.push({ref:'REF10003', desc:'    Celulares cantidad disponible  ', img:foto2});
+    $scope.items.categoriaB.push({ref:'REF10004', desc:'   Celulares cantidad disponible  ', img:foto2});
+    $scope.items.categoriaB.push({ref:'REF10005', desc:'  Celulares cantidad disponible   ', img:foto2});
         
     $scope.items.categoriaC = [];
     $scope.items.categoriaC.push({ref:'REF20001', desc:'Esto es un 1', img:foto3});
