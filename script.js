@@ -15,7 +15,7 @@
     $scope.items.categoriaA = [];
     $scope.items.categoriaA.push({ref:'REF00001', desc:'Iphone, ', img:foto1});
     $scope.items.categoriaA.push({ref:'REF00002', desc:'Macbook, ', img:foto2});
-    $scope.items.categoriaA.push({ref:'REF00003', desc:'Macbook pro, cosa verde rara Objeto 3, cosa verde rara Objeto 3, cosa verde rara Objeto 3, cosa verde rara', img:foto3});
+    $scope.items.categoriaA.push({ref:'REF00003', desc:'Macbook pro Deluxe', img:foto3});
     $scope.items.categoriaA.push({ref:'REF00004', desc:'Iphone10,', img:foto1});
     $scope.items.categoriaA.push({ref:'REF00005', desc:'Iphone9, ', img:foto1});
     $scope.items.categoriaA.push({ref:'REF00006', desc:'Iphone8,', img:foto1});
